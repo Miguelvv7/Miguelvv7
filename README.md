@@ -8,6 +8,8 @@ Web developer from **Écija, in the south of Spain**. I build software for the s
 - 🎬 Demo video: [youtu.be/HZodxXUT3yc](https://youtu.be/HZodxXUT3yc)
 - 🧩 Open source: [echo-show-mcp-app-starter](https://github.com/Miguelvv7/echo-show-mcp-app-starter) — Echo Show cards for any Alexa+ MCP server, with a phone layout and a local preview.
 
+**Before that:** websites and Shopify stores for local businesses — Óptica Arenas, Peluquería La Familia, Raíces del Sur, LookVintage, Manuel Interiorismo and more at [mvictorio.es](https://mvictorio.es).
+
 **I work with:** TypeScript · React · Next.js · Node.js · PostgreSQL · Supabase · Vercel · Model Context Protocol
 
 🌐 [mvictorio.es](https://mvictorio.es)
