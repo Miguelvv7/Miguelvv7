@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Miguel 👋
 
-<!--
-**Miguelvv7/Miguelvv7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer from **Écija, in the south of Spain**. I build software for the small businesses around me — the barber I go to, my dad's Tex-Mex restaurant — and lately, voice.
 
-Here are some ideas to get you started:
+**Now:** [Barrio](https://github.com/Miguelvv7/barrio) — every small business gets its own MCP server, and all of them sit behind one Alexa+ add-on. Customers ask about prices and dishes, check free times and book by voice; owners see the bookings in their dashboard and on their phone. Built for the Amazon Developer "Build, Ship, Shape" hackathon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔗 Live demo: [barrio-blush.vercel.app](https://barrio-blush.vercel.app)
+- 🎬 Demo video: [youtu.be/HZodxXUT3yc](https://youtu.be/HZodxXUT3yc)
+- 🧩 Open source: [echo-show-mcp-app-starter](https://github.com/Miguelvv7/echo-show-mcp-app-starter) — Echo Show cards for any Alexa+ MCP server, with a phone layout and a local preview.
+
+**I work with:** TypeScript · React · Next.js · Node.js · PostgreSQL · Supabase · Vercel · Model Context Protocol
+
+🌐 [mvictorio.es](https://mvictorio.es)
